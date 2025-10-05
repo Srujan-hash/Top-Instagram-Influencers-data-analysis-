@@ -74,3 +74,4 @@ final report summarizing the model's key feature drivers and strategic recommend
 The conclusive finding is that the project's strategic value lies in identifying the drivers—such as 
 
 Influence Score, Country, and engineered metrics—that distinguish the high-engagement outliers. This model will provide actionable intelligence for brands prioritizing quality audience interaction over mere reach.
+![Image Alt](https://github.com/Srujan-hash/Top-Instagram-Influencers-data-analysis-/blob/bbbfc15eeb9961253a2aba5600ed54e724ed1890/WhatsApp%20Image%202025-10-05%20at%2021.17.57_411b6242.jpg)
